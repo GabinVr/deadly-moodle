@@ -1,40 +1,36 @@
-# deadly-moodle
+# 📚 Deadly Moodle - Assignment Submission Simulator
 
-Un projet React avec TypeScript, Vite et Tailwind CSS.
+[![Deploy Status](https://github.com/gabinvr/deadly-moodle/actions/workflows/deploy.yml/badge.svg)](https://github.com/gabinvr/deadly-moodle/actions/workflows/deploy.yml)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-brightgreen)](https://gabinvr.github.io/deadly-moodle/)
+[![React](https://img.shields.io/badge/React-18.3.1-61DAFB?logo=react)](https://reactjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.5.3-3178C6?logo=typescript)](https://www.typescriptlang.org/)
+[![Vite](https://img.shields.io/badge/Vite-5.4.2-646CFF?logo=vite)](https://vitejs.dev/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-3.4.1-06B6D4?logo=tailwindcss)](https://tailwindcss.com/)
 
-## Déploiement automatique sur GitHub Pages
+> 🎯 **Mission** : Transformez votre procrastination en productivité avec cette simulation de rendu de devoir !
 
-Ce projet est configuré pour se déployer automatiquement sur GitHub Pages à chaque push sur la branche `main`.
+## 🎓 À propos du projet
 
-### Configuration requise
+**Deadly Moodle** est une application web moderne qui simule l'expérience de soumission d'un devoir universitaire. C'est un outil de motivation déguisé qui vous aide à avancer
 
-1. **Activer GitHub Pages dans votre repository :**
-   - Allez dans `Settings` > `Pages`
-   - Dans `Source`, sélectionnez `GitHub Actions`
+### 🌟 Fonctionnalités
 
-2. **Permissions du workflow :**
-   - Allez dans `Settings` > `Actions` > `General`
-   - Dans `Workflow permissions`, sélectionnez `Read and write permissions`
+- 📱 **Interface responsive** avec Tailwind CSS
+- ⚡ **Performance optimisée** avec Vite
+- 🔧 **TypeScript** pour un code robuste
+- 🚀 **Déploiement automatique** sur GitHub Pages
+- 🎨 **Design moderne** et intuitif
 
-### Développement local
+## 🚀 Statut du déploiement
 
-```bash
-# Installer les dépendances
-npm install
+Ce projet se déploie automatiquement sur GitHub Pages à chaque commit. Le badge ci-dessus indique le statut actuel du pipeline de déploiement.
 
-# Lancer le serveur de développement
-npm run dev
 
-# Construire pour la production
-npm run build
+<div align="center">
 
-# Prévisualiser la build de production
-npm run preview
-```
+**Made with ❤️ and lots of ☕**
 
-### URLs
 
-- **Développement :** http://localhost:5173
-- **Production (GitHub Pages) :** https://[votre-username].github.io/deadly-moodle/
+[![Déployé sur GitHub Pages](https://img.shields.io/badge/Deployed%20on-GitHub%20Pages-blue?logo=github)](https://gabinvr.github.io/deadly-moodle/)
 
-Le workflow GitHub Actions se déclenche automatiquement à chaque push et déploie votre application sur GitHub Pages.
+</div>
